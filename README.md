@@ -1,5 +1,5 @@
 # ALL YOUR BASE64
-tiny command line utility to output a file as a base64 string to stout
+tiny command line utility to output a file as a base64 string to stdout
 
 ## Install
 `npm i allyourbase64 -g`
