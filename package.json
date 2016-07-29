@@ -1,0 +1,27 @@
+{
+  "name": "allyourbase64",
+  "version": "1.0.0",
+  "description": "tiny command line utility to output a file as a base64 string to stout",
+  "main": "index.js",
+  "bin": {
+    "allyourbase64": "./index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified because it just wraps node built-ins that are tested out the wazoo!\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kristoferjoseph/allyourbase64.git"
+  },
+  "keywords": [
+    "base64",
+    "command",
+    "line"
+  ],
+  "author": "@dam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/kristoferjoseph/allyourbase64/issues"
+  },
+  "homepage": "https://github.com/kristoferjoseph/allyourbase64#readme"
+}
