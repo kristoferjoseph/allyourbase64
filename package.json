@@ -1,7 +1,7 @@
 {
   "name": "allyourbase64",
   "version": "1.0.0",
-  "description": "tiny command line utility to output a file as a base64 string to stout",
+  "description": "tiny command line utility to output a file as a base64 string to stdout",
   "main": "index.js",
   "bin": {
     "allyourbase64": "./index.js"
